@@ -15,6 +15,6 @@ Everything Starts From [Here](https://github.com/AlrightAndroid-Brokenlab/platfo
 
 - [@ResurrectionRemix](https://github.com/ResurrectionRemix)
 - [@ResurrectionRemix-Revived](https://github.com/ResurrectionRemix-Revived)
-- [@AlrightAndroid](https://github.com/AlrightAndroid)
+- [@KeepQassa](https://github.com/KeepQassa)
 - [@Alright-Team](https://github.com/Alright-Team)
 - [@AyraHikari](https://github.com/AyraHikari/)
