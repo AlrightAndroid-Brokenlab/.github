@@ -1,4 +1,7 @@
 # AlrightOS - BrokenLab
+
+AlrightOS is an Android Custom ROM Based ResurrectionRemix, you can say RR-FORKED or anything, me and my team don't care so much sorry.   
+
 -------------------------------
 Supported Android Versions
 
@@ -9,6 +12,11 @@ Supported Android Versions
 
 Everything Starts From [Here](https://github.com/AlrightAndroid-Brokenlab/platform_manifest), Repo Says What You Needed.
 
+## Useful Links
+---------
+- [Telegram](https://t.me/AlrightOS)
+- [AlrightOS (Stable)](https://github.com/AlrightAndroid)
+- [Website](https://paste.crdroid.net/QHkUXN)
 
  ## Credits
 ---------
