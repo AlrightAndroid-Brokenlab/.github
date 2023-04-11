@@ -16,7 +16,7 @@ Everything Starts From [Here](https://github.com/AlrightAndroid-Brokenlab/platfo
 ---------
 - [Telegram](https://t.me/AlrightOS)
 - [AlrightOS (Stable)](https://github.com/AlrightAndroid)
-- [Website](https://paste.crdroid.net/QHkUXN)
+- [Website](https://alrightos.xyz/)
 
  ## Credits
 ---------
