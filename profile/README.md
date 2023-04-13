@@ -1,4 +1,4 @@
-![AlrightOS](https://raw.githubusercontent.com/AlrightAndroid-Brokenlab/.github/main/profile/AlrightOS-01(2).png)
+![AlrightOS](https://raw.githubusercontent.com/AlrightAndroid-Brokenlab/.github/main/profile/banner.png)
 
 # AlrightOS - BrokenLab
 
